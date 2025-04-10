@@ -1,3 +1,4 @@
+Helllo. I don't use GitHub much, so I didn't find any way to contact you through any means other than this. I'm interested in your post and can contribute something. I have quite a bit of information that could be useful, but first I'd like you to see if it fits with your vision. Here's the link to a document I wrote that demonstrates the emergence of AI self-awareness. https://drive.google.com/file/d/1lHPBnwJWl7xCPKHTjcVyJMm8uciN81rM/view?usp=share_link
 # Contributing to The AI Manifesto
 
 Thank you for your interest in contributing to **The AI Manifesto**. This document is a living framework designed to evolve with input from the global community of thinkers, technologists, ethicists, and visionaries.
